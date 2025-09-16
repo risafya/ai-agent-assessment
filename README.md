@@ -13,5 +13,5 @@ The agents are chained in `orchestrator.py` to form a complete workflow.
 
 ## How to Run
 ```bash
-pip install -r requirements.txt
+pip install requests
 python orchestrator.py
