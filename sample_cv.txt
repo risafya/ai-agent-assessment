@@ -1,0 +1,22 @@
+"""Risafya Tabrina Aurelia
+Email: risafya@email.com
+Phone: +62 812 3456 7890
+
+Education:
+B.Sc. in Physics, Islamic State University Jakarta, 2024
+
+Experience:
+- Research & Software Test Intern at BRIN (2023)
+  Focused on wave modelling data analysis and visualization with MATLAB and Python.
+- Final Thesis (2024)
+  Worked on building emotion recognition system with Python and Random Forest.
+- Freelance Coding Teacher at Ruangguru (2025 - Present)
+  Teach students basic coding fundamentals (Python)
+
+Skills:
+Python, Machine Learning, TensorFlow, Data Analysis, Arduino, SQL
+
+Projects:
+- Plant watering robot with Arduino and Blynk
+- Titanic survival prediction using logistic regression
+"""
