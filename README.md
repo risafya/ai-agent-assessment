@@ -22,7 +22,6 @@ The system implements a multi-agent pipeline to parse a CV, analyze skills, comp
 
 - Standard libraries: `json`, `os`, `collections`
 
-> *You may include a `requirements.txt` with all dependencies for easy installation.*
 
 ---
 
@@ -34,7 +33,7 @@ git clone https://github.com/risafya/ai-agent-assessment.git
 cd ai-agent-assessment
 
 # (Optional) Install requirements
-pip install -r requirements.txt
+pip install requests
 
 # Run pipeline
 python orchestrator.py
